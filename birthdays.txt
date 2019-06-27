@@ -3,12 +3,12 @@ Make sure the dates are sorted
 
 Example:
 September
-8 - Xavi
+30- Xavi
 25 - Kevin
 
 
 January
-18 - Karen
+21- Karen
 
 February
 
@@ -24,6 +24,7 @@ June
 
 July
 9 - Andres
+29 - Shandon Mith
 August
 
 September
